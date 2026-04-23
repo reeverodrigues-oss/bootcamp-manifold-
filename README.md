@@ -32,11 +32,13 @@ Open the .env file
 Replace the placeholders with your actual keys:
 
 env# ==================== LLM API KEYS ====================
+
 OPENAI_API_KEY=sk-your-actual-openai-key-here
 GOOGLE_API_KEY=your-actual-google-gemini-key-here
 
-# ==================== Search Tools ====================
+### ==================== Search Tools ====================
 TAVILY_API_KEY=tvly-your-actual-tavily-key-here
+
 Where to get API keys:
 
 OpenAI: https://platform.openai.com/api-keys
