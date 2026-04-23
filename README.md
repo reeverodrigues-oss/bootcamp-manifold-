@@ -36,8 +36,8 @@ env# ==================== LLM API KEYS ====================
 OPENAI_API_KEY=sk-your-actual-openai-key-here
 GOOGLE_API_KEY=your-actual-google-gemini-key-here
 
-### ==================== Search Tools ====================
-TAVILY_API_KEY=tvly-your-actual-tavily-key-here
+### Step 4: Search Tools 
+tvly-your-actual-tavily-key-here
 
 Where to get API keys:
 
