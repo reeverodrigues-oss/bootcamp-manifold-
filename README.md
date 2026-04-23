@@ -1,4 +1,4 @@
-# agentic-ai-emb-15-feb
+# Assignment -1 
 Repository for Agentic Assignment 1
 
 # Windows - UV Prompt
